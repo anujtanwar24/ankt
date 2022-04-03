@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ankt/static/css/main.065c5055.css",
+    "main.js": "/ankt/static/js/main.82435a24.js",
+    "static/media/gym5.jpg": "/ankt/static/media/gym5.7ca51e5b3de39c8285b1.jpg",
+    "static/media/gym4.jpg": "/ankt/static/media/gym4.ed01f4a3d53b2a8a51e3.jpg",
+    "static/media/gym6.jpg": "/ankt/static/media/gym6.753239d18b92023ad220.jpg",
+    "index.html": "/ankt/index.html",
+    "main.065c5055.css.map": "/ankt/static/css/main.065c5055.css.map",
+    "main.82435a24.js.map": "/ankt/static/js/main.82435a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065c5055.css",
+    "static/js/main.82435a24.js"
+  ]
+}
